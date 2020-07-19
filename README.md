@@ -1,3 +1,3 @@
 # Noteful Client
 
-Deployed here https://yulia-noteful.now.sh/
+Deployed here https://noteful-client.gjames5355.vercel.app/
